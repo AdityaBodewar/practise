@@ -49,9 +49,6 @@ class _Register extends State<Register>{
 
 
 
-
-
-
   }
 
 
